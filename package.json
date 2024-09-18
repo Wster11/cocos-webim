@@ -1,0 +1,15 @@
+{
+  "name": "cocos-webim",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easemob-websdk": "^4.9.1",
+    "vconsole": "^3.15.1"
+  }
+}
